@@ -1,0 +1,65 @@
+11:56:19 segunda-feira, 5 de agosto de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+11:56:20 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+11:56:20 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+12:05:35 segunda-feira, 5 de agosto de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+12:05:36 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+12:05:36 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+15:35:52 segunda-feira, 5 de agosto de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+15:35:52 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+15:35:52 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+15:42:36 segunda-feira, 5 de agosto de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+15:42:36 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+15:42:50 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+16:06:36 segunda-feira, 5 de agosto de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+16:06:36 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+16:06:36 segunda-feira, 5 de agosto de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+

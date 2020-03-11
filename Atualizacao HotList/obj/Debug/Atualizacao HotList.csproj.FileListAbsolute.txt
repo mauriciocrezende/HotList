@@ -1,0 +1,22 @@
+c:\users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.exe
+c:\users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\WinSCPnet.dll
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\WinSCP.exe
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.exe.config
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao_HotList.Form1.resources
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao_HotList.Properties.Resources.resources
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.csproj.GenerateResource.Cache
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.exe
+C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.pdb
+C:\Users\mauricio.rezende\Documents\Visual Studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.pdb
+C:\Users\mauricio.rezende\Documents\Visual Studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.csprojResolveAssemblyReference.cache
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.exe.config
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.exe
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.pdb
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\bin\Debug\WinSCP.exe
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.exe
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\bin\Debug\Atualizacao HotList.pdb
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\bin\Debug\WinSCPnet.dll
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.csprojResolveAssemblyReference.cache
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao_HotList.Form1.resources
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao_HotList.Properties.Resources.resources
+C:\Supervia\Atualizacao HotList\Atualizacao HotList\obj\Debug\Atualizacao HotList.csproj.GenerateResource.Cache

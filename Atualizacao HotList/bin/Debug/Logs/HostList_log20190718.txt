@@ -1,0 +1,56 @@
+10:31:37 quinta-feira, 18 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+10:31:37 quinta-feira, 18 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+10:35:21 quinta-feira, 18 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+11:24:16 quinta-feira, 18 de julho de 2019
+  :Host "ftp.riocardti.com.br" does not exist.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+11:24:16 quinta-feira, 18 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+11:25:33 quinta-feira, 18 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+14:56:47 quinta-feira, 18 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+14:56:47 quinta-feira, 18 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+15:02:03 quinta-feira, 18 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+15:02:03 quinta-feira, 18 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+15:22:55 quinta-feira, 18 de julho de 2019
+  :Não é possível gravar em um TextWriter fechado. Falha ao atualizar repositório(s).
+-------------------------------
+
+15:53:20 quinta-feira, 18 de julho de 2019
+  :Um caractere inválido foi encontrado no cabeçalho do email: ';'. Falha ao atualizar repositório(s).
+-------------------------------
+
+16:08:08 quinta-feira, 18 de julho de 2019
+  :Timeout waiting for WinSCP to respond: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+16:08:08 quinta-feira, 18 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+

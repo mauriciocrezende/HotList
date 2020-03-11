@@ -1,0 +1,132 @@
+17:17:06 quarta-feira, 11 de março de 2020
+  :Atualização concluida com sucesso.
+-------------------------------
+
+18:00:50 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\LRESTRSF_0104_01_010285_20200310_2237.BIN
+-------------------------------
+
+18:00:52 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HBU\HBUVER.INI
+-------------------------------
+
+18:00:52 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HBU\V03723\HBUBD_03723.BIN
+-------------------------------
+
+18:00:54 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HBU\V03723\HBU_03723.BIN
+-------------------------------
+
+18:00:55 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HOT\HOTVER.INI
+-------------------------------
+
+18:00:56 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HOT\V06834\HLSBD_06834.BIN
+-------------------------------
+
+18:00:57 quarta-feira, 11 de março de 2020
+  :Nome do Arquivo: C:\temp\20200310\HOT\V06834\MSGVAL_0100.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Arquivos Copiados: 
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\LRESTRSF_0104_01_010285_20200310_2237.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HBU\HBUVER.INI
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HBU\V03723\HBUBD_03723.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HBU\V03723\HBU_03723.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HOT\HOTVER.INI
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HOT\V06834\HLSBD_06834.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\HOT\V06834\MSGVAL_0100.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\REC\RECVER.INI
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\REC\V05339\LRECEN_012_003_5339_20200310_1141.BIN
+-------------------------------
+
+18:31:01 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: C:\temp\20200310\REC\V05339\REC_003_05339.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Arquivos Copiados: 
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: LRESTRSF_0104_01_010285_20200310_2237.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: HBUVER.INI
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: HBUBD_03723.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: HBU_03723.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: HOTVER.INI
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: HLSBD_06834.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: MSGVAL_0100.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: RECVER.INI
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: LRECEN_012_003_5339_20200310_1141.BIN
+-------------------------------
+
+18:32:15 quarta-feira, 11 de março de 2020
+  :Endereço ftp: /saida/MERCURY_SUPERVIA/2020/03_MARCO/10 -> Nome do Arquivo: REC_003_05339.BIN
+-------------------------------
+
+18:34:32 quarta-feira, 11 de março de 2020
+  :Não foi possível localizar uma parte do caminho 'C:\temp\202003100'. Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+18:34:40 quarta-feira, 11 de março de 2020
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+18:34:53 quarta-feira, 11 de março de 2020
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+

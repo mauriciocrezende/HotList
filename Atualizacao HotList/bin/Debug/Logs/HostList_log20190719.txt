@@ -1,0 +1,38 @@
+13:09:36 sexta-feira, 19 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+13:57:40 sexta-feira, 19 de julho de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+13:57:40 sexta-feira, 19 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+13:57:40 sexta-feira, 19 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+
+13:59:35 sexta-feira, 19 de julho de 2019
+  :O processo não pode acessar o arquivo 'C:\Users\mauricio.rezende\documents\visual studio 2013\Projects\Atualizacao HotList\Atualizacao HotList\bin\Debug\Conf\Emails.txt' porque ele está sendo usado por outro processo. Falha ao atualizar repositório(s).
+-------------------------------
+
+14:02:31 sexta-feira, 19 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+14:05:26 sexta-feira, 19 de julho de 2019
+  :O caminho da rede não foi encontrado.
+ Falha ao copiar os arquivos para o Destino
+-------------------------------
+
+14:05:26 sexta-feira, 19 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+14:05:26 sexta-feira, 19 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório(s).
+-------------------------------
+

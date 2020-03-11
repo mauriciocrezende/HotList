@@ -1,0 +1,36 @@
+20:21:17 quarta-feira, 17 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+20:23:39 quarta-feira, 17 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+20:23:46 quarta-feira, 17 de julho de 2019
+  :Atualização concluida com sucesso.
+-------------------------------
+
+20:28:00 quarta-feira, 17 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+20:28:00 quarta-feira, 17 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao atualizar repositório configurados.
+-------------------------------
+
+20:46:35 quarta-feira, 17 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+20:46:49 quarta-feira, 17 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao copiar os arquivos. - TimerAutomatico 
+-------------------------------
+
+20:50:24 quarta-feira, 17 de julho de 2019
+  :Terminated by user.: Problema ao transferir os arquivo do FTP da riocard.
+-------------------------------
+
+20:50:33 quarta-feira, 17 de julho de 2019
+  :Exceção do tipo 'System.Exception' foi acionada. Falha ao copiar os arquivos. - TimerAutomatico 
+-------------------------------
+
